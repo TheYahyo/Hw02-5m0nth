@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #252525;
+}
+
+.header a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.header nav{
+    display: flex;
+    column-gap: 20px;
+}
+
+.header2{
+    background-color: gray;
+}
